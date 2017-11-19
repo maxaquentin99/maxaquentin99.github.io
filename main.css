@@ -11,9 +11,7 @@ body{
     padding: 0px;
 
 }
-hr{
-	width: 70%
-}
+
 div{
 	margin:0 auto;
 }
@@ -63,3 +61,41 @@ li{
  	height: 220px;
  	width: 200px;
  }
+ .list_of_films{
+ 	color: white;
+ }
+ @media only screen and (max-device-width: 480px) {
+.container{
+	padding-top: 0px;
+	width: 97%;
+	background-color: #e6e6e6;
+	height: auto;
+}
+.avatar{
+ 	height: 520px;
+ 	width: 500px;
+ }
+ body{
+ 	font-size: 25pt;
+ }
+.mv_img{
+	border: solid 3px #998056;
+	width: 60%;
+}
+.home_bt{
+	height: 70px;
+	width: 70px;
+
+	position: fixed;
+	float: left;
+	padding: auto;
+}
+.raf{
+	font-size: 35pt;
+}
+.mv_bt{
+	height: 70px;
+	width: 70px; 
+}
+	}
+
