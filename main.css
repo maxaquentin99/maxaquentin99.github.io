@@ -76,15 +76,15 @@ li{
  	width: 500px;
  }
  body{
- 	font-size: 25pt;
+ 	font-size: 29pt;
  }
 .mv_img{
 	border: solid 3px #998056;
 	width: 60%;
 }
 .home_bt{
-	height: 70px;
-	width: 70px;
+	height: 100px;
+	width: 100px;
 
 	position: fixed;
 	float: left;
@@ -94,8 +94,8 @@ li{
 	font-size: 35pt;
 }
 .mv_bt{
-	height: 70px;
-	width: 70px; 
+	height: 100px;
+	width: 100px; 
 }
 	}
 
