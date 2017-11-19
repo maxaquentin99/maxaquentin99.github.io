@@ -1,0 +1,65 @@
+html,*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-family: 'Asap', sans-serif;
+    text-align: center;
+    font-size: 12pt;
+    color: #030303;
+    background:url("images/bg2.jpg");
+    padding: 0px;
+
+}
+hr{
+	width: 70%
+}
+div{
+	margin:0 auto;
+}
+.avatar, .mv_img{
+	border: solid 3px #998056;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: green;
+}
+.raf{
+	font-size: 20px;
+}
+li{
+	list-style-type: none;
+}
+.mv{
+	height: 34.33%;
+	background-color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.container{
+	padding-top: 0px;
+	width: 70%;
+	background-color: #e6e6e6;
+	height: auto;
+}
+.home_bt{
+	height: 30px;
+	width: 30px;
+
+	position: fixed;
+	float: left;
+	padding: auto;
+}
+.home_bt:hover{
+	background-color: grey;
+}
+ .home_button{
+ 	float: left;
+ }
+ .avatar{
+ 	height: 220px;
+ 	width: 200px;
+ }
